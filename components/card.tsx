@@ -20,7 +20,7 @@ const Card = () => {
             <IoPeopleOutline />
             <span>2 People</span>
           </div>
-          <Link href="#" className="px-6 py-2.5 md:px-10 md:py-3 font-semibold text-white bg-orange-400 hover:bg-orange-500 transition duration-150">Book Now</Link>
+          <Link href="#" className="px-6 py-2.5 md:px-10 md:py-3 font-semibold text-white rounded-sm bg-orange-400 hover:bg-orange-500 transition duration-150">Book Now</Link>
         </div>
       </div>
     </div>
